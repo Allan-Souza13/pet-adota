@@ -25,7 +25,9 @@ Projeto fullstack para gerenciamento de adoção de pets.
 
 ## 📷 Preview
 
-![preview](https://placedog.net/400/300)
+![preview]
+<img width="961" height="928" alt="image" src="https://github.com/user-attachments/assets/83fd6758-2814-4fea-a9e7-ce9e1ef449fe" />
+
 
 ---
 

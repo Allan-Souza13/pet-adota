@@ -25,8 +25,8 @@ Projeto fullstack para gerenciamento de adoção de pets.
 
 ## 📷 Preview
 
-![preview]
-<img width="961" height="928" alt="image" src="https://github.com/user-attachments/assets/83fd6758-2814-4fea-a9e7-ce9e1ef449fe" />
+![preview](<img width="961" height="928" alt="image" src="https://github.com/user-attachments/assets/83fd6758-2814-4fea-a9e7-ce9e1ef449fe" />)
+
 
 
 ---
